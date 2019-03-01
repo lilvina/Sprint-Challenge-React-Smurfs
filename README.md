@@ -33,8 +33,9 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - Client side routing is Javascript within a client app that manages data for the application within it's own memory. The pros of client side is that routing between views is faster because less data is processed but the downside is that the client requires more work and the website needs to be loaded on the first request.
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
-- GET request: retrieves data from the server, POST request: create or add data to the server, PUT request: updates or make changes to the server and DELETE request: removes or deletes data from the server 
+- GET request: retrieves data from the server, POST request: create or add data to the server, PUT request: updates or make changes to the server and DELETE request: removes or deletes data from the server
 - [ ] Mention three tools we can use to make AJAX requests.
+- Fetch, Axios, jQuery
 
 
 ## Project Set Up
